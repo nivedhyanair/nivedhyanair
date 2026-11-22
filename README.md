@@ -38,8 +38,7 @@ const nivedhya = {
     "Investment Analysis & Portfolio Analytics",
     "Performance Measurement & Attribution",
     "Risk Modeling & Financial Data Analytics",
-  ],
-  location: "Bangalore, India",
+  ],  
 };
 ```
 
